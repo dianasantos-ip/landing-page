@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="350"
+   height="110"
+   viewBox="0 0 92.604162 29.104167"
+   version="1.1"
+   id="svg1532"
+   inkscape:version="1.1 (1:1.1+202106032006+af4d65493e)"
+   sodipodi:docname="robo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1534"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.502"
+     inkscape:cx="250"
+     inkscape:cy="143.47537"
+     inkscape:window-width="1866"
+     inkscape:window-height="1016"
+     inkscape:window-x="54"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     width="793.70081px" />
+  <defs
+     id="defs1529" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1627"
+       transform="matrix(0.22176903,0,0,0.22176903,20.867281,-20.588839)"
+       style="stroke-width:4.50919">
+      <g
+         id="g1791"
+         transform="matrix(-1,0,0,1,120.73974,-0.02102398)"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         style="stroke-width:4.50919">
+        <path
+           d="m 63.241123,153.12553 c 3.18862,0.92847 2.43584,4.66531 -0.19488,9.59144 -3.14219,5.88413 -13.36683,13.88766 -21.0016,11.63375 -0.002,0 -0.002,0 -0.002,0 -0.69569,-0.20669 -1.36777,-0.4954 -2.01326,-0.8809 -7.72795,-4.60954 15.47852,-19.78327 19.16926,-20.37218 1.74802,-0.28051 3.07609,-0.25426 4.04262,0.0279"
+           style="fill:#5fbbe8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+           id="path1340-3" />
+        <path
+           d="m 63.241123,153.12553 c 3.18862,0.92847 2.43584,4.66531 -0.19488,9.59144 -3.14219,5.88413 -13.36683,13.88766 -21.0016,11.63375 6.82605,-2.26376 17.90173,-7.91331 21.19648,-21.22519"
+           style="fill:#5faede;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+           id="path1342-6" />
+        <path
+           d="m 43.665363,165.62213 c 1.64565,-1.33693 4.57476,-3.29229 5.0759,-2.75916 0.51213,0.54297 -1.49408,3.69583 -4.27587,5.75289 -1.8991,1.40419 -4.50899,2.55739 -4.90925,2.03411 -0.45291,-0.59383 1.96308,-3.28245 4.10922,-5.02784"
+           style="fill:#b1eced;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+           id="path1344-7" />
+      </g>
+      <path
+         d="m 135.72678,168.70739 c 0,13.50545 -9.47514,29.3698 -24.52895,29.3698 -9.32832,0 -17.005094,-5.71189 -21.492584,-13.34633 -2.75932,-4.68827 -4.31574,-10.10161 -4.31574,-15.36402 0,-13.83681 15.101404,-13.17737 24.671524,-13.17737 10.49611,0 22.95597,-0.8038 25.27927,8.96973 0.25427,1.05478 0.38648,2.23259 0.38648,3.54819"
+         style="fill:#5fbbe8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1346-5"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 135.72678,168.70739 c 0,13.50545 -9.47514,29.3698 -24.52895,29.3698 -9.32832,0 -17.005094,-5.71189 -21.492584,-13.34633 9.34916,4.39957 35.980134,13.51529 45.635054,-19.57166 0.25427,1.05478 0.38648,2.23259 0.38648,3.54819"
+         style="fill:#5faede;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1348-3"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 90.602056,164.00107 c -1.95536,3.18895 -0.57234,7.72631 2.78557,9.50779 3.54902,1.88318 8.377714,0.19521 9.697254,-3.5482 1.2536,-3.55475 -1.1619,-7.53929 -4.622984,-8.65805 -2.77557,-0.89566 -6.23404,0.0476 -7.85984,2.69846"
+         style="fill:#b1eced;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1350-5"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 163.42074,169.48659 c 3.02589,5.42153 3.70633,9.4192 -0.8435,9.81617 -0.78116,0.0673 -1.71767,0.0295 -2.82199,-0.12467 -3.70222,-0.52164 -27.18805,-15.25575 -19.54721,-20.01129 1.97504,-1.22866 4.24175,-1.55674 6.57998,-1.25983 6.71024,0.85629 14.00381,6.86673 16.63272,11.57962"
+         style="fill:#5fbbe8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1352-6"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 163.42074,169.48659 c 3.02589,5.42153 3.70633,9.4192 -0.8435,9.81617 -0.52082,-3.5039 -3.35233,-10.6249 -15.78922,-21.39579 6.71024,0.85629 14.00381,6.86673 16.63272,11.57962"
+         style="fill:#5faede;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1354-2"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 148.44861,167.98234 c 3.39399,2.47536 8.94168,6.99796 8.49582,7.64428 -0.40191,0.58234 -5.73437,-1.90779 -10.12622,-5.82836 -2.4465,-2.18338 -4.85625,-5.04096 -4.49897,-5.45106 0.44422,-0.51181 5.07344,2.86579 6.12937,3.63514"
+         style="fill:#b1eced;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1356-9"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 77.892536,132.45774 c -1.02148,-0.73326 -1.86974,-1.63384 -2.51999,-2.64269 -1.49802,-2.31625 -1.96816,-5.19352 -1.16305,-7.8723 0.81742,-2.71815 2.84741,-4.89168 5.44795,-5.97927 0.73457,-0.31004 1.51671,-0.53313 2.33052,-0.65452 3.59117,10.26073 -4.09543,17.14878 -4.09543,17.14878"
+         style="fill:#5fbbe8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1358-1"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 77.892536,132.45774 c -1.02148,-0.73326 -1.86974,-1.63384 -2.51999,-2.64269 0.76836,-2.06035 1.52147,-4.24373 2.23997,-6.54357 0.79149,-2.53606 1.46701,-4.97863 2.04493,-7.308 0.73457,-0.31004 1.51671,-0.53313 2.33052,-0.65452 -1.36515,5.71516 -2.73029,11.43197 -4.09543,17.14878"
+         style="fill:#5faede;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1360-2"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 131.85018,134.50497 c 1.22341,13.36109 -28.32961,22.71139 -43.804864,17.06512 -4.29949,-1.56823 -7.51222,-4.29786 -8.67708,-8.41691 -5.35755,-18.94667 4.51095,-38.7283 19.19519,-41.14954 5.323114,-0.87598 11.909834,0.13123 17.829714,3.79097 7.58671,4.685 14.08632,13.7187 15.45704,28.71036"
+         style="fill:#5fbbe8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1362-7"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 75.512636,123.37154 c -0.11729,-0.041 -2.90237,-1.01376 -5.44401,-3.94681 -2.3256,-2.68534 -4.87807,-7.59015 -3.83084,-15.71835 l 1.43503,0.18536 c -0.78133,6.06458 0.37582,10.95134 3.4396,14.52742 2.28492,2.66566 4.84329,3.57444 4.86905,3.58265 l -0.46883,1.36973"
+         style="fill:#5fbbe8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1364-0"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 70.553856,101.52956 c 0.30249,1.83561 -0.94044,3.56952 -2.77589,3.87136 -1.83561,0.30347 -3.56887,-0.93996 -3.87135,-2.77557 -0.30249,-1.83561 0.94027,-3.567879 2.77588,-3.871349 1.83562,-0.30184 3.56887,0.94159 3.87136,2.775559"
+         style="fill:#294f81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1366-9"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 122.07239,124.13761 c 0.43651,2.64926 -2.20291,4.76046 -5.79178,6.34673 -3.78014,1.67321 -8.61326,2.76408 -12.01628,3.29229 -4.871844,0.75458 -14.392584,1.45668 -18.283944,-1.0679 -0.9124,-0.59219 -1.51492,-1.36154 -1.67715,-2.34742 -0.47293,-2.86907 0.29412,-5.66432 1.9173,-7.86574 1.62351,-2.19814 4.10363,-3.80082 7.05489,-4.28802 l 16.399444,-2.70174 c 3.43026,-0.56594 6.74255,0.5036 9.09899,2.62464 1.69962,1.5305 2.90253,3.60561 3.29853,6.00716"
+         style="fill:#294f81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1368-3"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 122.07239,124.13761 c 0.43651,2.64926 -2.20291,4.76046 -5.79178,6.34673 -3.78014,1.67321 -8.61326,2.76408 -12.01628,3.29229 -4.871844,0.75458 -14.392584,1.45668 -18.283944,-1.0679 9.58668,-1.87827 25.703334,-6.15644 32.793474,-14.57828 1.69962,1.5305 2.90253,3.60561 3.29853,6.00716"
+         style="fill:#33487a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1370-6"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 131.85018,134.50497 c 1.22341,13.36109 -28.32961,22.71139 -43.804864,17.06512 8.88804,0.01 35.162064,-1.08103 37.751114,-14.25347 2.22668,-11.32699 -5.04687,-24.75206 -9.40329,-31.52201 7.58671,4.685 14.08632,13.7187 15.45704,28.71036"
+         style="fill:#5faede;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1372-0"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 83.784376,117.78433 c 0.95242,0.90386 5.4066,-2.04887 8.245,-4.95894 2.72061,-2.78705 5.28915,-6.90283 4.42433,-7.80505 -0.76804,-0.80051 -4.10823,1.07283 -6.14659,2.62793 -4.56213,3.48094 -7.5603,9.15345 -6.52274,10.13606"
+         style="fill:#b1eced;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1374-6"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 80.161046,139.48523 c 0.69586,3.50883 3.40286,6.50257 4.237,6.13019 0.87565,-0.39041 -0.19094,-4.54227 -0.99441,-6.78799 -0.23064,-0.64468 -1.64139,-4.58821 -2.58955,-4.41432 -0.74556,0.13615 -1.10366,2.80017 -0.65304,5.07212"
+         style="fill:#b1eced;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1376-2"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 118.35129,122.4562 c 0.43438,2.63613 -1.35054,5.12626 -3.98666,5.56097 -2.03804,0.33464 -3.98701,-0.65288 -4.96813,-2.33594 -0.28871,-0.4954 -0.49458,-1.0515 -0.5935,-1.65024 -0.43438,-2.63778 1.35055,-5.12627 3.98848,-5.56098 1.9406,-0.31987 3.80704,0.55282 4.82524,2.09152 0.36778,0.55282 0.62007,1.19914 0.73457,1.89467"
+         style="fill:#393760;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1378-6"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 113.58379,117.57763 c -0.30855,0 -0.62023,0.0262 -0.92682,0.0755 -1.49359,0.24443 -2.80182,1.05314 -3.6837,2.2736 -0.88188,1.22211 -1.2321,2.70995 -0.98604,4.19288 0.11286,0.68077 0.34678,1.32708 0.69504,1.92091 1.01065,1.72243 2.88383,2.79197 4.88856,2.79197 0.30889,0 0.62122,-0.0262 0.92815,-0.0755 3.08198,-0.50525 5.17595,-3.40548 4.66808,-6.46647 -0.13139,-0.79232 -0.42355,-1.5305 -0.86859,-2.19322 -1.04969,-1.57643 -2.81279,-2.51967 -4.71468,-2.51967 z m -0.007,0.82021 c 1.64286,0 3.15465,0.83496 4.03325,2.15549 0.36778,0.54789 0.62614,1.17945 0.7408,1.87006 0.43438,2.61808 -1.35054,5.09181 -3.98666,5.52324 -0.26673,0.0426 -0.53215,0.064 -0.79379,0.064 -1.73801,0 -3.30869,-0.8645 -4.16154,-2.31789 -0.28888,-0.49212 -0.50738,-1.11056 -0.60629,-1.70603 -0.43438,-2.61808 1.35054,-5.09017 3.98848,-5.52324 0.26623,-0.0426 0.52443,-0.0656 0.78575,-0.0656 v 0"
+         style="fill:#46aed2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1380-1"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 117.61442,120.55825 c -1.072,4.60133 -5.5229,5.20828 -8.20513,5.13447 -0.29035,-0.49377 -0.49819,-1.04822 -0.59907,-1.64861 -0.44307,-2.63449 1.33348,-5.12955 3.96994,-5.57245 1.93945,-0.32645 3.81082,0.55117 4.83426,2.08659"
+         style="fill:#2f4572;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1382-8"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 113.10792,121.69341 c 0.14419,0.87433 -0.44833,1.7011 -1.32349,1.84546 -0.87515,0.14435 -1.70159,-0.44784 -1.84578,-1.32381 -0.14419,-0.87433 0.44849,-1.7011 1.32348,-1.84546 0.87516,-0.14435 1.70159,0.44783 1.84579,1.32381"
+         style="fill:#b1eced;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1384-7"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 97.174986,125.94534 c 0.43455,2.63613 -1.35037,5.12626 -3.98667,5.56097 -2.03787,0.33628 -3.98684,-0.65288 -4.96796,-2.33594 -0.28888,-0.4954 -0.49475,-1.0515 -0.59366,-1.65025 -0.43422,-2.63612 1.35054,-5.12626 3.98848,-5.56096 1.94059,-0.31988 3.80081,0.56266 4.81901,2.10299 0.36778,0.55282 0.6263,1.18766 0.7408,1.88319"
+         style="fill:#393760;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1388-2"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 92.407486,121.06678 c -0.3084,0 -0.62024,0.0262 -0.92667,0.0771 -3.08281,0.50853 -5.1776,3.42845 -4.6699,6.51077 0.11303,0.68405 0.34678,1.33529 0.6952,1.9324 1.0105,1.7339 2.88384,2.81165 4.88841,2.81165 0.30905,0 0.62138,-0.0263 0.9283,-0.0771 1.49294,-0.24606 2.80067,-1.05806 3.68222,-2.28837 0.88172,-1.22866 1.23178,-2.72799 0.98588,-4.2224 -0.1314,-0.79559 -0.42372,-1.5387 -0.86875,-2.20634 -1.04953,-1.58791 -2.81264,-2.5377 -4.71469,-2.5377 z m -0.007,0.82512 c 1.64303,0 3.15483,0.84153 4.03326,2.17025 0.36778,0.55282 0.62631,1.18766 0.74081,1.88319 0.43454,2.63613 -1.35038,5.12626 -3.98668,5.56097 -0.26656,0.0426 -0.53197,0.064 -0.79379,0.064 -1.73784,0 -3.32148,-0.93667 -4.17417,-2.39991 -0.28887,-0.4954 -0.49474,-1.0515 -0.59366,-1.65025 -0.43422,-2.63612 1.35055,-5.12626 3.98848,-5.56096 0.26623,-0.0443 0.52444,-0.0673 0.78575,-0.0673 v 0"
+         style="fill:#46aed2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1390-0"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 96.428446,124.05395 c -1.07201,4.60134 -5.51324,5.20172 -8.1953,5.12954 -0.29051,-0.4954 -0.49819,-1.04985 -0.59907,-1.65024 -0.44324,-2.63449 1.33332,-5.12954 3.96977,-5.57245 1.93962,-0.32644 3.80115,0.55609 4.8246,2.09315"
+         style="fill:#2f4572;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1392-2"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 91.931766,125.18255 c 0.14419,0.87434 -0.44832,1.7011 -1.32364,1.84545 -0.87516,0.14436 -1.70143,-0.44782 -1.84562,-1.3238 -0.14436,-0.87434 0.44832,-1.7011 1.32348,-1.84546 0.87515,-0.14435 1.70143,0.44784 1.84578,1.32381"
+         style="fill:#b1eced;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1394-3"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 96.297376,127.04277 c 0.28805,0.13123 0.20899,1.85201 -0.86761,2.6837 -0.95668,0.73818 -2.41582,0.55282 -2.49866,0.25262 -0.0607,-0.22145 0.64992,-0.4019 1.73538,-1.33036 1.14254,-0.97769 1.43043,-1.69782 1.63089,-1.60596"
+         style="fill:#b1eced;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1396-7"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 103.07569,117.70887 c 0.0984,0.31003 -1.92337,1.41074 -4.111514,1.98161 -3.54967,0.92683 -7.04061,0.32972 -7.05783,-0.0787 -0.008,-0.18701 2.26752,-0.58399 6.81883,-1.37138 3.656794,-0.6332 4.298514,-0.69389 4.350514,-0.53149"
+         style="fill:#296abd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1398-5"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 64.911356,101.87241 c 0.33596,0.93995 1.37023,1.43043 2.31035,1.09414 0.93995,-0.33628 1.42978,-1.36973 1.09382,-2.31133 -0.33579,-0.939939 -1.37023,-1.428789 -2.31034,-1.092499 -0.93996,0.33464 -1.42978,1.369739 -1.09383,2.309689"
+         style="fill:#296abd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1400-9"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 107.9764,145.51044 c -2.01901,0.45439 -3.83494,-0.28379 -5.28915,-1.43536 -2.61005,-2.06362 -4.056234,-5.4609 -3.418934,-5.68728 0.992114,-0.34776 3.839204,0.95964 6.583434,0.34285 3.15286,-0.70866 5.02948,-2.40156 6.62772,-2.86743 0.0714,-0.0213 0.14108,-0.0394 0.21113,-0.0558 1.64598,-0.36909 1.48046,8.31193 -4.7142,9.70299"
+         style="fill:#294f81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1402-2"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 107.9764,145.51044 c -2.01901,0.45439 -3.83494,-0.28379 -5.28915,-1.43536 2.61775,-1.16632 7.66758,-3.87955 9.79222,-8.21186 0.0714,-0.0213 0.14108,-0.0394 0.21113,-0.0558 1.64598,-0.36909 1.48046,8.31193 -4.7142,9.70299"
+         style="fill:#33487a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1404-2"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 138.86734,211.23323 c 0,3.74501 -11.70839,6.78143 -26.15132,6.78143 -14.442944,0 -26.151164,-3.03642 -26.151164,-6.78143 0,-3.7434 11.70822,-6.77979 26.151164,-6.77979 14.44293,0 26.15132,3.03639 26.15132,6.77979"
+         style="fill:#c9eaff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.159075"
+         id="path1434-4"
+         inkscape:export-filename="/home/diana/Área de Trabalho/solda.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    font-size: 100%;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(89,194,37,1) 0%, rgba(194,253,45,1)61.8%);
+
+}
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 35px;
+
+}
+.img-logo{
+    height: 72px;
+
+}
+
+.menu{
+    display: flex;
+    gap:32px;
+
+}
+
+.menu-item{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color:rgb(42, 105, 23);
+    font-weight: 400;
+
+}
+
+.principal{
+    border-top: 0.4px solid rgb(42, 105, 23);
+    margin-bottom: 48px;
+    padding: 82px;
+
+
+}
+
+.conteudo-primario{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+       
+}
+
+
+.conteudo-principal-texto{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    
+}
+
+.titulo-principal{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 64px; 
+    color: rgb(42, 105, 23);
+
+}
+
+.subtitulo{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 20px; 
+   
+}
+
+.botao-contato{
+    text-decoration: none;
+}
+
+.botao-contato{
+ 
+   display: inline-block;
+   margin-top: 20px;
+   padding: 8px 20px; 
+   width: 205px;
+   height: 35px;
+   cursor:pointer ;
+   border: 1px solid rgb(42, 105, 23);
+   color: rgb(42, 105, 23);
+   text-transform: uppercase ;
+   background-color: transparent;
+   font-weight: bold;
+   letter-spacing: 10px;
+   border-radius: 20px;
+   position: relative;
+   transition: 1.5s;
+   font-family: 'Roboto', sans-serif;
+   align-items: center;
+  
+}
+
+.botao-contato:hover{
+    box-shadow: 4px 4px 4px black;
+
+}
+
+
+.minha-foto{
+    height: 230px;
+}
+
+.conteudo-secundario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    margin-top: 80px;
+
+}
+
+.titulo-secundario-principal{
+    border-top: 0.4px solid rgb(42, 105, 23);
+    padding-top: 48px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 34px; 
+    margin-bottom: 10px;
+    color:rgb(42, 105, 23); ;
+    
+}
+
+.paragrafo{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px; 
+    font-weight: 10px;
+
+}
+
+.rodape{
+    padding: 32px;
+    border-top: 0.4px solid rgb(42, 105, 23);
+
+}
+
+.img-rodape{
+    height: 48px;
+    display: block;
+    margin: 0 auto;
+    width: 280px;
+    height: 80px;
+
+}
